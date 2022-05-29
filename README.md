@@ -14,4 +14,4 @@
  
  #### Telegram channels
 
- - RU | [Frontend Formula](https://t.me/frontend_formula)
+ - RU | [Frontend Formula](https://t.me/frontend_formula) - Интересные статьи, юмор, задачи, UI-макеты, обзоры библиотек и инструментов.
