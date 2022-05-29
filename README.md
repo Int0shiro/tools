@@ -2,13 +2,13 @@
 
 ##### Содержание:
 
- - Telegram channels
+ - Telegram каналы
 
- - Instagram profiles
+ - Профили Instagram
 
- - Third Party Sites
+ - Сторонние сайты
 
- - Other
+ - Другое
 
 ##### Контент:
  
