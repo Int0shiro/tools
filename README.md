@@ -8,7 +8,7 @@
 
  - Third Party Sites
 
- - Other.
+ - Other
 
 ##### Content:
  
