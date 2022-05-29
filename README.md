@@ -23,3 +23,17 @@
  #### Профили Instagram
 
  - [@microsoft.design](https://instagram.com/microsoft.design) - Sharing sketches, designs, and everything in between.
+
+ - [@designsketch](https://instagram.com/designsketch) - This blog devoted to designers.
+
+ - [@sketch.bys](https://instagram.com/sketch.bys) - You imagine, We create 🪄.
+
+ - [@sketchformac](https://instagram.com/sketchformac) - Everything you need to design, collab, prototype and handoff.
+
+ #### Сторонние сайты
+
+ - [Weblind](https://weblind.ru) - Содержит рекомендации по разработке сайтов для людей с нарушениями зрения.
+
+ - [DevDocs](https://devdocs.io) - Архив документации практически по любой из технологий, используемых в веб-разработке.
+
+ - [LambdaTest](https://www.lambdatest.com) - Позволяет тестировать любое веб-приложение почти на всех современных браузерах, операционных системах и устройствах как вручную, так и автоматически.
