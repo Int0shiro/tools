@@ -2,10 +2,16 @@
 
 ##### Contains:
 
- - Telegram channels, 
+ - Telegram channels
 
- - Instagram profiles,
+ - Instagram profiles
 
  - Third Party Sites
- 
+
  - Other.
+
+##### Content:
+ 
+ #### Telegram channels
+
+ - RU | (Frontend Formula)[https://t.me/frontend_formula]
